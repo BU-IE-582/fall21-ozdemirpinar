@@ -1,34 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Pinar Ozdemir's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BU-IE-582/fall21-ozdemirpinar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my [Progress Journal website](https://bu-ie-582.github.io/fall20-ozdemirpinar/) created for IE 582 course at Bogazici University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Homework Assignments
 
-### Markdown
+There will be several homework assignments done for this course.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Homework 0
 
-```markdown
-Syntax highlighted code block
+### Homework 1
 
-# Header 1
-## Header 2
-### Header 3
+### Homework 2
 
-- Bulleted
-- List
+### Homework 3
 
-1. Numbered
-2. List
+### Homework 4
 
-**Bold** and _Italic_ and `Code` text
+### Group Project
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BU-IE-582/fall21-ozdemirpinar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
