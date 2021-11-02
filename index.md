@@ -10,7 +10,9 @@ There will be several homework assignments done for this course.
 
 ### Homework 1
 
-* [HW1](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW1_Task_1/HW1_Task1.html)
+* [HW1 Task1](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW1_Task_1/HW1_Task1.html)
+
+* [HW1 Task2](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW1_Task_2/HW1_Task_2.html)
 
 ### Homework 2
 
