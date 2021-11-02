@@ -8,6 +8,7 @@ There will be several homework assignments done for this course.
 
 ### Homework 0
 
+
 ### Homework 1
 
 * [HW1 Task1](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW1_Task_1/HW1_Task1.html)
@@ -16,9 +17,12 @@ There will be several homework assignments done for this course.
 
 ### Homework 2
 
+
 ### Homework 3
 
+
 ### Homework 4
+
 
 ### Group Project
 
