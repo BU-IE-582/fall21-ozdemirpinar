@@ -1,6 +1,6 @@
 # Welcome to Pinar Ozdemir's GitHub Pages
 
-This is my [Progress Journal website](https://bu-ie-582.github.io/fall20-ozdemirpinar/) created for IE 582 course at Bogazici University. You can also visit my personal Github [Website](https://github.com/ozdemirpinar). 
+This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-ozdemirpinar/) created for IE 582 course at Bogazici University. You can also visit my personal Github [Website](https://github.com/ozdemirpinar). 
 
 ## Homework Assignments
 
