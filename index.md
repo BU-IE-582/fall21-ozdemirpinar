@@ -17,7 +17,6 @@ There will be several homework assignments done for this course.
 
 ### Homework 2
 
-* [HW2](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW2/HW2.html)
 
 ### Homework 3
 
