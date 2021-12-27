@@ -25,6 +25,7 @@ There will be several homework assignments done for this course.
 
 ### Homework 4
 
+* [HW4](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW4/HW4.html)
 
 ### Group Project
 
