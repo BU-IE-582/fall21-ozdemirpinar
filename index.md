@@ -29,6 +29,5 @@ There will be several homework assignments done for this course.
 
 ### Group Project
 
-* [IE 582 Project-Group10](https://bu-ie-582.github.io/fall21-ozdemirpinar/IE 582 Project-Group10/IE 582 Project-Group10.html)
-
+* [IE 582 Project-Group10](https://bu-ie-582.github.io/fall21-ozdemirpinar/IE%20582%20Project-Group10/IE%20582%20Project-Group10.html)
 
