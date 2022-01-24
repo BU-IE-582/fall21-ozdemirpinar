@@ -29,5 +29,7 @@ There will be several homework assignments done for this course.
 
 ### Group Project
 
+* [ProjectReport-Group10](https://bu-ie-582.github.io/fall21-ozdemirpinar/Project-Group10/IE582_ProjectReport_Group10.pdf)
+
 * [ProjectCode-Group10-PinarOzdemir](https://bu-ie-582.github.io/fall21-ozdemirpinar/Project-Group10/ProjectCodes_Group10_PinarOzdemir.R)
 
