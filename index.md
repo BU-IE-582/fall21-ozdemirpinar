@@ -29,7 +29,7 @@ There will be several homework assignments done for this course.
 
 ### Homework 5
 
-* [HW5](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW5/HW5.R)
+* [HW5](https://bu-ie-582.github.io/fall21-ozdemirpinar/HW5/HW5.html)
 
 ### Group Project
 
